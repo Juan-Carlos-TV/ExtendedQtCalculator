@@ -13,8 +13,8 @@ find_package(QT NAMES Qt5 REQUIRED COMPONENTS Core Quick)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core Quick)
 
 set(PROJECT_SOURCES
-        src/main.cpp
-        src/qml.qrc
+        main.cpp
+        qml.qrc
 )
 
 # Letting these as defaults for now
