@@ -1,0 +1,3 @@
+module CalculatorComponents
+
+BaseButton 1.0 BaseButton.qml

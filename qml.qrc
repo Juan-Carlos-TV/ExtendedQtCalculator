@@ -1,6 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>Resources/qml/components/BaseButton.qml</file>
+        <file>imports/Qml/CalculatorComponents/BaseButton.qml</file>
+        <file>imports/Qml/CalculatorComponents/qmldir</file>
+        <file>imports/Qml/Themes/DarkStyle.qml</file>
     </qresource>
 </RCC>
